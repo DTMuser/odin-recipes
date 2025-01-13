@@ -4,6 +4,7 @@
     font-weight: bolder;
     font-style: italic;
     font-family: fantasy;
+    background-color: darkgoldenrod;
 }
 .center-container {
     text-align: center;
@@ -16,7 +17,7 @@
     font-size: 80px;
 }
 body {
-    background-color: yellow ;
+    background-color: brown;
 
 }
 
