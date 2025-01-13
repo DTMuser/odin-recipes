@@ -13,8 +13,8 @@
 .button-link {
     display: inline-block;
     padding: 10px 20px;
-    background-color: red ;
-    color: goldenrod ;
+    background-color: darkgoldenrod ;
+    color: black ;
     font-size: 80px;
 }
 #hed2 {
@@ -64,14 +64,14 @@ h3 {
 #p4 {
     display: inline-block;
     padding: 10px 20px;
-    background-color: red ;
-    color: goldenrod ;
+    background-color: darkgoldenrod ;
+    color: black ;
     font-size: 20px;
     back
 }
 .para4 {
     text-align: center;
-    color: goldenrod;
+    color: black;
     font-style: oblique;
     
 }
