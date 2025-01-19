@@ -5,6 +5,7 @@
     font-style: italic;
     font-family: fantasy;
     background-color: darkgoldenrod;
+    padding: 10px 100px;
 }
 .center-container {
     text-align: center;
@@ -15,9 +16,12 @@
     background-color: darkgoldenrod ;
     color: black ;
     font-size: 80px;
+    border-radius: 12px;
+
 }
 body {
     background-color: brown;
+    align-self: auto;
 
 }
 
